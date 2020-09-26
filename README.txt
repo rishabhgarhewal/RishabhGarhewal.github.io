@@ -2,9 +2,6 @@ Free for personal and commercial use under the CCA 3.0 license
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
-
-Hit Count: [![HitCount](http://hits.dwyl.com/rishabhgarhewal/rishabhgarhewalgithubio.svg)](http://hits.dwyl.com/rishabhgarhewal/rishabhgarhewalgithubio)
-
 (* = not included)
 
 Credits:
