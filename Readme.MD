@@ -3,9 +3,9 @@ Viewed by: [![HitCount](http://hits.dwyl.com/rishabhgarhewal/rishabhgarhewalgith
 
 Developed a portfolio website to showcase my skills and projects using HTML, CSS, and JavaScript comprised of multiple pages, transition effects and deployed the final into Github.
 
-Language: HTML | CSS | JavaScript
+• Language: HTML | CSS | JavaScript
 
-Version Control: Git | GitHub
+• Version Control: Git | GitHub
 
 Free for personal and commercial use under the CCA 3.0 license
 
