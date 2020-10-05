@@ -1,6 +1,12 @@
 # My Portfolio
 Viewed by: [![HitCount](http://hits.dwyl.com/rishabhgarhewal/rishabhgarhewalgithubio.svg)](http://hits.dwyl.com/rishabhgarhewal/rishabhgarhewalgithubio)
 
+Developed a portfolio website to showcase my skills and projects using HTML, CSS, and JavaScript comprised of multiple pages, transition effects and deployed the final into Github.
+
+Language: HTML | CSS | JavaScript
+
+Version Control: Git | GitHub
+
 Free for personal and commercial use under the CCA 3.0 license
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
